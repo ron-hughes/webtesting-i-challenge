@@ -10,7 +10,7 @@ const enhancer = require('./enhancer.js');
  */
 
 const item = {
-  name: 'scott',
+  name: 'ron',
   durability: 100,
   enhancement: 20
 }
